@@ -1,0 +1,22 @@
+h1,h2{
+	text-align: center;
+}
+p{
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+}
+.box{
+	min-height: 100px;
+	background: #009999;
+	margin-bottom: 20px;
+}
+.h_300{
+	min-height: 300px;
+	border: 1px solid #000;
+}
+.box2{
+	min-height: 50px;
+	background: #cc0066;
+	margin-bottom: 10px;
+}
